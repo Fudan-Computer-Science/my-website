@@ -1,35 +1,35 @@
 # Website
-## ¥»¦a­×§ï«ü«n
-¤U¸ü·í«eÀÉ®×
-¤U¸üNode.js
+## æœ¬åœ°ä¿®æ”¹æŒ‡å—  
+ä¸‹è¼‰ç•¶å‰æª”æ¡ˆ
+ä¸‹è¼‰Node.js
 https://nodejs.org/en/download/
 ```shell
 docker pull node:22-alpine
-# ­Y¨S¦³Docker½Ğ°Ñ¦Ò
+# è‹¥æ²’æœ‰Dockerè«‹åƒè€ƒ
 # https://docker.com/get-started/
 # https://stackoverflow.com/questions/52946810/error-during-connect-get-http-2f2f-2fpipe2fdocker-engine-v1-38-info
-# ¥i¯à¹J¨ìªº°İÃD
+# å¯èƒ½é‡åˆ°çš„å•é¡Œ
 docker run -it --rm --entrypoint sh node:22-alpine
-# ÀË¬dNode.jsª©¥»(¤]½T©wnode¬O§_¯à°õ¦æ):
+# æª¢æŸ¥Node.jsç‰ˆæœ¬(ä¹Ÿç¢ºå®šnodeæ˜¯å¦èƒ½åŸ·è¡Œ):
 node -v
-# ÀË¬dnpmª©¥»(¤]½T©wnpm¬O§_¯à°õ¦æ):
+# æª¢æŸ¥npmç‰ˆæœ¬(ä¹Ÿç¢ºå®šnpmæ˜¯å¦èƒ½åŸ·è¡Œ):
 npm -v
-cd ¤U¸üºô¯¸ÀÉ®×¦ì§}
+cd ä¸‹è¼‰ç¶²ç«™æª”æ¡ˆä½å€
 ```
-^windowª©
+^windowç‰ˆ
 
-¦¨¥\!!!  
-### °õ¦æ
-¦bterminal¥´
+æˆåŠŸ!!!  
+### åŸ·è¡Œ
+åœ¨terminalæ‰“
 ```
 npx docusaurus start
 ```
-¤§«á¥´¶} http://localhost:3000/homepage ´N¥i¥H¬İ¨ìºô¯¸¤F  
-¦b´Á¶¡¹ïÀÉ®×ÅÜ§ó³£¥i¥H¦bhttp://localhost:3000/homepage¤WÅã¥Ü  
-¦bterminal¥´ ctrl-C ¤¤¤î
+ä¹‹å¾Œæ‰“é–‹ http://localhost:3000/homepage å°±å¯ä»¥çœ‹åˆ°ç¶²ç«™äº†  
+åœ¨æœŸé–“å°æª”æ¡ˆè®Šæ›´éƒ½å¯ä»¥åœ¨http://localhost:3000/homepageä¸Šé¡¯ç¤º  
+åœ¨terminalæ‰“ ctrl-C ä¸­æ­¢
 
-### ´£¥æÅÜ§ó
+### æäº¤è®Šæ›´
 ```
 git request-pull
 ```
-·í©¡·F³¡À³¸Ó·|¬İ§¹¤§«áÀ°§Amerge¦^main
+ç•¶å±†å¹¹éƒ¨æ‡‰è©²æœƒçœ‹å®Œä¹‹å¾Œå¹«ä½ mergeå›main
