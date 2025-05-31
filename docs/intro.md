@@ -240,6 +240,23 @@ sidebar_position: 1
       <td></td>
     </tr>
   </tbody>
+    <!-- 第 14 屆 -->
+    <tr>
+      <td>14<br>現任</td>
+      <td>李萱雅</td>
+      <td>羅執中</td>
+      <td>董品辰</td>
+      <td></td>
+      <td>黃柏諺</td>
+      <td>黃彥凱</td>
+      <td></td>
+      <td>楊珈瑜<br>張家源</td>
+      <td>黃禹程<br>袁維哲</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
 </body>
