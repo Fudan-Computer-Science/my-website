@@ -45,7 +45,7 @@ const config: Config = {
       'zh-TW': {
         label: '繁體中文（台灣）',
         direction: 'ltr',
-      },
+      }
   },
 
   presets: [
