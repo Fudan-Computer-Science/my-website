@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Fudan-Computer-Science/homepage/blob/main/docusaurus.config.ts',
         },
         blog: {
           showReadingTime: true,
@@ -56,7 +56,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Fudan-Computer-Science/homepage/tree/main/blog',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -73,9 +73,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'FDCS復旦程式設計班',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'FDCS Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -83,11 +83,11 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: '講義',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: '部落格', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Fudan-Computer-Science/homepage/tree/main/blog',
           label: 'GitHub',
           position: 'right',
         },
@@ -109,16 +109,8 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'github',
+              href: 'https://github.com/Fudan-Computer-Science',
             },
           ],
         },
@@ -126,12 +118,12 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: '部落格',
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: '網站GitHub連結',
+              href: 'https://github.com/Fudan-Computer-Science/homepage/tree/main/blog',
             },
           ],
         },
