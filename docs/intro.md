@@ -23,14 +23,14 @@ sidebar_position: 1
     </tr>
   </thead>
   <tbody>
-  <tr>
-    <!-- 創始 第 0 屆 -->
-    <td>創始 0</td>
-    <td>鍾鎵駿</td>
-    <td></td>
-    <td colspan="9">黃先鼎　陳耀恩　王宗仁　李修豪</td>
-    <td></td>
-  </tr>
+    <tr>
+      <!-- 創始 第 0 屆 -->
+      <td>創始 0</td>
+      <td>鍾鎵駿</td>
+      <td></td>
+      <td colspan="9">黃先鼎　陳耀恩　王宗仁　李修豪</td>
+      <td></td>
+    </tr>
     <!-- 第 1 屆 -->
     <tr>
       <td>1</td>
@@ -121,7 +121,7 @@ sidebar_position: 1
       <td>李驊諺</td>
       <td>徐惇楠</td>
       <td></td>
-      <td>楊景鈞<br>鍾孟辰</td>
+      <td>楊景鈞<br/>鍾孟辰</td>
       <td></td>
       <td></td>
       <td></td>
@@ -153,7 +153,7 @@ sidebar_position: 1
       <td>吳樹棋</td>
       <td>許愷洌</td>
       <td></td>
-      <td>陳允浩<br>楊登棋</td>
+      <td>陳允浩<br/>楊登棋</td>
       <td>施羿廷</td>
       <td></td>
       <td></td>
@@ -169,7 +169,7 @@ sidebar_position: 1
       <td>施羿廷</td>
       <td>袁紹翔</td>
       <td></td>
-      <td>連奕婷<br>林銘宇</td>
+      <td>連奕婷<br/>林銘宇</td>
       <td>黃祥陞</td>
       <td></td>
       <td></td>
@@ -186,7 +186,7 @@ sidebar_position: 1
       <td>方旭誠</td>
       <td>羅時翰</td>
       <td>陳芊語</td>
-      <td>傅興<br>郭勝威</td>
+      <td>傅興<br/>郭勝威</td>
       <td></td>
       <td></td>
       <td></td>
@@ -201,7 +201,7 @@ sidebar_position: 1
       <td>郭勝威</td>
       <td>趙炫翔</td>
       <td></td>
-      <td>邱廷軒<br>鄭為駿</td>
+      <td>邱廷軒<br/>鄭為駿</td>
       <td>賴宇弘</td>
       <td></td>
       <td></td>
@@ -218,7 +218,7 @@ sidebar_position: 1
       <td>林明緯</td>
       <td>黃柏誠</td>
       <td>鄭鈞澤</td>
-      <td>賴禹丞<br>崔澤豪</td>
+      <td>賴禹丞<br/>崔澤豪</td>
       <td></td>
       <td></td>
       <td></td>
@@ -233,16 +233,15 @@ sidebar_position: 1
       <td>李哲安</td>
       <td>周祐謙</td>
       <td></td>
-      <td>劉柏毅<br>洪培睿</td>
+      <td>劉柏毅<br/>洪培睿</td>
       <td>阮豐翔</td>
       <td></td>
       <td>葉冠陞</td>
       <td></td>
     </tr>
-  </tbody>
     <!-- 第 14 屆 -->
     <tr>
-      <td>14<br>現任</td>
+      <td>14<br/>現任</td>
       <td>李萱雅</td>
       <td>羅執中</td>
       <td>董品辰</td>
@@ -250,14 +249,12 @@ sidebar_position: 1
       <td>黃柏諺</td>
       <td>黃彥凱</td>
       <td></td>
-      <td>楊珈瑜<br>張家源</td>
-      <td>黃禹程<br>袁維哲</td>
+      <td>楊珈瑜<br/>張家源</td>
+      <td>黃禹程<br/>袁維哲</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
+    <!-- 新增下一屆於此 -->
   </tbody>
 </table>
-
-</body>
-</html>
