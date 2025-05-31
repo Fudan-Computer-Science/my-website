@@ -37,7 +37,7 @@ const config: Config = {
     locales: ['en', 'zh-TW'],   
     // 語系配置
     localeConfigs: {
-      en: {
+      'en': {
         label: 'English',
         direction: 'ltr',       
         // 閱讀方向為左到右
