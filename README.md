@@ -1,2 +1,2 @@
 # Website
-教學 
+blog update note
