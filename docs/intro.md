@@ -2,6 +2,7 @@
 sidebar_position: 1
 ---
 
+
 # 歷屆幹部名單
 <table>
   <thead>
@@ -9,16 +10,16 @@ sidebar_position: 1
       <th>屆別</th>
       <th>社長</th>
       <th>副社長</th>
-      <th>秘書</th>
-      <th>美宣</th>
-      <th>公關</th>
-      <th>器材</th>
-      <th>活動</th>
-      <th>教學</th>
-      <th>總務</th>
-      <th>攝影</th>
-      <th>文書</th>
-      <th>其他</th>
+      <th>總務長</th>
+      <th>教學長</th>
+      <th>進階教學</th>
+      <th>初階教學</th>
+      <th>副初階教學</th>
+      <th>初階助教</th>
+      <th>進階助教</th>
+      <th>國中部負責人</th>
+      <th>班級秘書</th>
+      <th>教學顧問</th>
     </tr>
   </thead>
   <tbody>
@@ -33,114 +34,114 @@ sidebar_position: 1
     <!-- 第 1 屆 -->
     <tr>
       <td>1</td>
-      <td>楊鈞凱</td>
-      <td></td>
-      <td>朱冠瑋</td>
-      <td>江季恩</td>
-      <td>江季恩</td>
-      <td>林子閎</td>
-      <td></td>
-      <td>蔡昀珊</td>
+      <td>黃琪文</td>
+      <td>宋耘慶</td>
+      <td>李宛庭</td>
+      <td>羅子原</td>
       <td></td>
       <td></td>
-      <td>邱鈺翔</td>
-      <td>彭筱筑</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <!-- 第 2 屆 -->
     <tr>
       <td>2</td>
-      <td>邱鈺翔</td>
-      <td>吳秉勳</td>
-      <td>徐崇煬</td>
-      <td>陳韋廷</td>
-      <td>陳韋廷</td>
-      <td>林子閎</td>
-      <td>楊鈞凱</td>
-      <td>蔡昀珊</td>
-      <td>陳韋廷</td>
+      <td>童宇宏</td>
+      <td>張任廷</td>
+      <td>蔡語謙</td>
+      <td>洪冠群</td>
       <td></td>
-      <td>彭筱筑</td>
-      <td>江季恩</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>蔡語謙</td>
+      <td></td>
+      <td></td>
     </tr>
     <!-- 第 3 屆 -->
     <tr>
       <td>3</td>
-      <td>吳秉勳</td>
-      <td>徐崇煬</td>
-      <td>曾靖維</td>
-      <td>陳亮宇</td>
-      <td>陳亮宇</td>
-      <td>李欣怡</td>
-      <td>劉信宏</td>
-      <td>李欣怡</td>
-      <td>吳秉勳</td>
-      <td>賴政宇</td>
-      <td>葉芃妤</td>
-      <td>陳韋廷</td>
+      <td>陳柏昇</td>
+      <td>曹竣傑</td>
+      <td>徐瑞陽</td>
+      <td>林宏俊</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>陳柏宇</td>
+      <td></td>
     </tr>
     <!-- 第 4 屆 -->
     <tr>
       <td>4</td>
-      <td>曾靖維</td>
-      <td>賴政宇</td>
-      <td>吳玟叡</td>
-      <td>林威廷</td>
-      <td>林威廷</td>
-      <td>周佳蓉</td>
-      <td>周佳蓉</td>
-      <td>蔡昀姍</td>
-      <td>葉芃妤</td>
-      <td>游子嫻</td>
-      <td>林佳儒</td>
-      <td>陳亮宇</td>
+      <td>蔡語謙</td>
+      <td>方喬</td>
+      <td>王維澤</td>
+      <td></td>
+      <td>張鈞諺</td>
+      <td>陳皇佑</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <!-- 第 5 屆 -->
     <tr>
       <td>5</td>
-      <td>吳玟叡</td>
-      <td>賴政宇</td>
-      <td>徐維庭</td>
-      <td>曾柏諺</td>
-      <td>曾柏諺</td>
-      <td>陳映彤</td>
-      <td>江翊睿</td>
-      <td>黃瑋婷</td>
-      <td>林威廷</td>
-      <td>李虹儒</td>
-      <td>黃聖婷</td>
-      <td>周佳蓉</td>
+      <td>張瀚文</td>
+      <td>高程昱</td>
+      <td>林承緯</td>
+      <td>何培魁</td>
+      <td>鄭豫澤</td>
+      <td>姜漢暘</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <!-- 第 6 屆 -->
     <tr>
       <td>6</td>
-      <td>徐維庭</td>
-      <td>謝孟勳</td>
-      <td>廖庭</td>
-      <td>謝孟勳</td>
-      <td>李姿儀</td>
-      <td>廖庭</td>
-      <td>吳玟叡</td>
-      <td>陳彥名</td>
-      <td>林威廷</td>
-      <td>李芷蓉</td>
-      <td>洪語謙</td>
-      <td>曾柏諺</td>
+      <td>石宇辰</td>
+      <td>陳博威</td>
+      <td>李智霖</td>
+      <td></td>
+      <td>李驊諺</td>
+      <td>徐惇楠</td>
+      <td></td>
+      <td>楊景鈞<br>鍾孟辰</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <!-- 第 7 屆 -->
     <tr>
       <td>7</td>
-      <td>謝孟勳</td>
-      <td>李昀潔</td>
-      <td>廖庭</td>
-      <td>洪語謙</td>
-      <td>蔡宜潔</td>
-      <td>林昀萱</td>
-      <td>林柏安</td>
-      <td>蔡欣倫</td>
-      <td>李姿儀</td>
-      <td>郭柏妤</td>
-      <td>余宜庭</td>
-      <td>李姿儀</td>
+      <td>古景睿</td>
+      <td>呂恆甲</td>
+      <td>林宥廷</td>
+      <td>邱秉辰</td>
+      <td>鍾孟辰</td>
+      <td>許愷洌</td>
+      <td></td>
+      <td></td>
+      <td>傅靖芸</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <!-- 第 8 屆 -->
     <tr>
@@ -192,7 +193,7 @@ sidebar_position: 1
     </tr>
     <!-- 第 11 屆 -->
     <tr>
-      <td>11<br>現任</td>
+      <td>11</td>
       <td>林芷萱</td>
       <td>魏祺誠</td>
       <td>林昀萱</td>
@@ -204,6 +205,38 @@ sidebar_position: 1
       <td>賴宇弘</td>
       <td></td>
       <td></td>
+      <td></td>
+    </tr>
+    <!-- 第 12 屆 -->
+    <tr>
+      <td>12</td>
+      <td>沈侑廷</td>
+      <td>賴韋傑</td>
+      <td>莊鎧宇</td>
+      <td></td>
+      <td>吳宗恩</td>
+      <td>林明緯</td>
+      <td>黃柏誠</td>
+      <td>鄭鈞澤</td>
+      <td>賴禹丞<br>崔澤豪</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <!-- 第 13 屆 -->
+    <tr>
+      <td>13</td>
+      <td>呂岢芹</td>
+      <td>邱苡涵</td>
+      <td>林鼎峰</td>
+      <td></td>
+      <td>李哲安</td>
+      <td>周祐謙</td>
+      <td></td>
+      <td>劉柏毅<br>洪培睿</td>
+      <td>阮豐翔</td>
+      <td></td>
+      <td>葉冠陞</td>
       <td></td>
     </tr>
   </tbody>
