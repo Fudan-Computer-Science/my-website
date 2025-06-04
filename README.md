@@ -24,6 +24,10 @@ npx docusaurus start
 #輸入
 Set-ExecutionPolicy -ExecutionPolicy Bypass
 ```
+
+![](./z_README_files/teach9.png)
+記得要在homepage的目錄執行 `npx docusaurus start`
+
 ![](./z_README_files/teach6.png)
 之後打開 http://localhost:3000/homepage 就可以看到網站了  
 ![](./z_README_files/teach7.png)
