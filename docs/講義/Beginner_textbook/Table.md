@@ -16,4 +16,5 @@ hide_table_of_contents: true
 
 #### <font face="Quattrocento Sans">Chapter 7 ----- Useful Tools</font>
 
+###### 舊版連結 https://drive.google.com/file/d/16Di_TsV1gDvJ63pJVB_XAk5B9lYfYuet/preview"
 

@@ -42,3 +42,5 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass
 git request-pull
 ```
 當屆幹部應該會看完之後幫你merge回main
+
+### 若有任何問題 https://docusaurus.io/docs/category/guides 都應該可以解決
