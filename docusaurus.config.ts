@@ -83,6 +83,12 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
+          sidebarId: 'introSidebar',
+          position: 'left',
+          label: '介紹',
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: '講義',
