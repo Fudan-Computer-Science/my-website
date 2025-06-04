@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title : 幹部的話
+hide_table_of_contents: true
 ---
 
 # 幹<small><small><small><small>部的</small></small></small></small>話

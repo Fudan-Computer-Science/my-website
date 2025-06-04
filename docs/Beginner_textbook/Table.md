@@ -1,6 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 0.5
 title : "目次"
+hide_table_of_contents: true
 ---
 
 #### <font face="Quattrocento Sans">Chapter 1 ----- Welcome to C++ </font>

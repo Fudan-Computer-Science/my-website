@@ -30,6 +30,9 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass
 在期間對檔案變更都可以在http://localhost:3000/homepage上顯示  
 在terminal打 ctrl-C 中止
 
+
+記得編碼是UTF-8  
+![](./z_README_files/teach8.png)
 ### 提交變更
 ```
 git request-pull

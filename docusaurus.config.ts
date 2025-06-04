@@ -99,11 +99,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '資源',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: '講義',
+              to: '/docs/category/入班考講義',
             },
           ],
         },
