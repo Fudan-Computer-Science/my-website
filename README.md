@@ -45,4 +45,4 @@ git request-pull
 
 ### 若有任何問題 https://docusaurus.io/docs/category/guides 都應該可以解決
 
-# 極度建議不要修改 yarn.lock package.json package-lock.json 除非你有億萬%的把握知道你在做什麼
+# 極度建議不要修改 yarn.lock package.json package-lock.json  除非你有億萬%的把握知道你在做什麼
