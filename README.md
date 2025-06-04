@@ -26,6 +26,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass
 ```
 ![](./z_README_files/teach6.png)
 之後打開 http://localhost:3000/homepage 就可以看到網站了  
+![](./z_README_files/teach7.png)
 在期間對檔案變更都可以在http://localhost:3000/homepage上顯示  
 在terminal打 ctrl-C 中止
 
