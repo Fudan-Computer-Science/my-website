@@ -1,29 +1,30 @@
 # Website
 ## 本地修改指南  
-下載當前檔案
 下載Node.js
 https://nodejs.org/en/download/
+![](./z_README_files/teach1.png)
+![](./z_README_files/teach2.png)
+![](./z_README_files/teach3.png)
+![](./z_README_files/teach4.png)
 ```shell
-docker pull node:22-alpine
-# 若沒有Docker請參考
-# https://docker.com/get-started/
-# https://stackoverflow.com/questions/52946810/error-during-connect-get-http-2f2f-2fpipe2fdocker-engine-v1-38-info
-# 可能遇到的問題
-docker run -it --rm --entrypoint sh node:22-alpine
-# 檢查Node.js版本(也確定node是否能執行):
-node -v
-# 檢查npm版本(也確定npm是否能執行):
-npm -v
-cd 下載網站檔案位址
+cd 你想要放檔案的位置
+npx create-docusaurus@latest homepage https://github.com/Fudan-Computer-Science/homepage.git -g deep
 ```
-^window版
+![](./z_README_files/teach5.png)
+^最下面的才是對的
 
 成功!!!  
+
 ### 執行
 在terminal打
-```
+```shell
 npx docusaurus start
+#如果遇到檔案 C:\Program Files\nodejs\npm.ps1 未經數位簽署。您無法在目前的系統上執行此指令碼。
+#則用管理員權限打開shell
+#輸入
+Set-ExecutionPolicy -ExecutionPolicy Bypass
 ```
+![](./z_README_files/teach6.png)
 之後打開 http://localhost:3000/homepage 就可以看到網站了  
 在期間對檔案變更都可以在http://localhost:3000/homepage上顯示  
 在terminal打 ctrl-C 中止
