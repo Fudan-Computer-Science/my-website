@@ -38,3 +38,4 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass
 git request-pull
 ```
 當屆幹部應該會看完之後幫你merge回main
+rebuild
