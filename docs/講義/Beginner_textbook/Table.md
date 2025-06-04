@@ -12,6 +12,8 @@ hide_table_of_contents: true
 
 #### <font face="Quattrocento Sans">Chapter 4 ----- Loops</font>
 
+#### <font face="Quattrocento Sans">Chapter 6 ----- Functions</font>
+
 #### <font face="Quattrocento Sans">Chapter 5 ----- Array and String</font>
 
 #### <font face="Quattrocento Sans">Chapter 7 ----- Useful Tools</font>
