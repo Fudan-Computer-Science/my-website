@@ -10,6 +10,15 @@ type FeatureItem = {
 };
 
 const FeatureList: FeatureItem[] = [
+/*   {
+    title: '最新消息',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        現在開放報名
+      </>
+    ),
+  }, */
   {
     title: '主要目標',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
