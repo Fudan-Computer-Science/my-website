@@ -1,5 +1,7 @@
 # Website
 ## 本地修改指南  
+下載git  
+https://git-scm.com/downloads/win  
 下載Node.js
 https://nodejs.org/en/download/
 ![](./z_README_files/teach1.png)
