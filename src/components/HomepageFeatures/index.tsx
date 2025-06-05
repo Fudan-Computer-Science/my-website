@@ -1,7 +1,13 @@
 import type {ReactNode} from 'react';
+import { Link } from 'react-router-dom';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+
+export const openInNewTab = (url) => {
+  const newWindow = window.open(url, '_blank', 'noopener,noreferrer');
+  if (newWindow) newWindow.opener = null;
+};
 
 type FeatureItem = {
   title: string;
@@ -20,11 +26,11 @@ const FeatureList: FeatureItem[] = [
     ),
   }, */
   {
-    title: '主要目標',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'DanDanjudge',
+    Svg: require('@site/static/img/ddj_logo.svg').default,
     description: (
       <>
-        提昇學生程式素養
+      <Link to="./" href="#" onClick = {() => openInNewTab("https://dandanjudge.fdhs.tyc.edu.tw")}>旦旦解題網</Link>
       </>
     ),
   },
