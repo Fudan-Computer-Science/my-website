@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-title : "½u¬q¾ð"
+title : "ç·šæ®µæ¨¹"
 hide_table_of_contents: true
 ---
 <iframe src="https://hackmd.io/@Bryan0324/dandanSegtree" 
