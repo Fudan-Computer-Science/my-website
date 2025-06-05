@@ -91,6 +91,11 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
+          label: '講義(?)',
+        },
+        {
+          to: '/docs/講義',
+          position: 'left',
           label: '講義',
         },
         {to: '/blog', label: '部落格', position: 'left'},
