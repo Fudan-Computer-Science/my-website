@@ -16,12 +16,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16.x
-          cache: yarn
+          cache: npm
 
       - name: Install dependencies
         run: npm install
-      - name: Build slides
-        run: npm reveal
       - name: Build website
         run: npm build
 
