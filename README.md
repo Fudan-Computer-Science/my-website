@@ -46,3 +46,4 @@ git request-pull
 ### 若有任何問題 https://docusaurus.io/docs/category/guides 都應該可以解決
 
 # 極度建議不要修改 yarn.lock package.json package-lock.json  除非你有億萬%的把握知道你在做什麼
+# 如果是用學校電腦下載本地，請先下載 git [下載連結](https://git-scm.com/downloads/win?fbclid=IwY2xjawKt9l9leHRuA2FlbQIxMQABHnJGlnqq7szqmPzwWtLjiqh_I_GEUiu2vhKywGRB9tfjouSwmmVo_MwpFjcE_aem_P-Zep5fEh45LbKEUt2uJMQ)
