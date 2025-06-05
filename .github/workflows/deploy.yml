@@ -20,6 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+      - name: Build slides
+        run: npm view
       - name: Build website
         run: npm build
 
