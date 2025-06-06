@@ -61,7 +61,7 @@ export default function OneA2BGame() {
 
   return (
     <div style={{ padding: '2rem' }}>
-      <h1>1A2B 猜數字遊戲 by ChatGPT</h1>
+      <h1>1A2B 猜數字遊戲 by 14th進階教學 (vide coding with ChatGPT)</h1>
       <p>請輸入一個 4 位數字（不重複）來猜答案。</p>
       <input
         type="text"
