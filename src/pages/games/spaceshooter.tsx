@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import './spaceShooter.css';
+import './spaceshooter.css';
 
 type Bullet = { x: number; y: number };
 type EnemyType = 'normal' | 'fast' | 'tank' | 'boss';
@@ -156,7 +156,7 @@ export default function SpaceShooterBoss() {
 
   return (
     <div className="game-container">
-      <h1>🚀 打飛船 - Boss 戰</h1>
+      <h1>🚀 打飛船 - Boss 戰 by 14th進階教學 (vide coding with ChatGPT)</h1>
       <div className="game-area">
         <div className="ship" style={{ left: shipX }} />
         {bullets.map((b, i) => (
