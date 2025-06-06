@@ -20,8 +20,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/入班考講義">
-            入班考講義
+            to="/docs/intro/intro/入班考試資訊">
+            入班考資訊
           </Link>
         </div>
       </div>
