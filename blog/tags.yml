@@ -66,24 +66,7 @@ develop:
   description: 不限遊戲引擎，vibe coding 也接受
 
 
-
-#以下不要動，會出錯
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+  description: Docusaurus維護相關的內容
