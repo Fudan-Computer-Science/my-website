@@ -1,3 +1,4 @@
+# 14th
 14thClassLeader:
   name: Miyun
   title: 第14屆班長
@@ -6,10 +7,12 @@
   socials:
     instgram: https://www.instagram.com/miyun_owo/
     github: Miyun-owo
-   
-# 14thAdvancedEducation
-
-docusaurus:
-  name: Docusaurus Team
-  image_url: https://github.com/facebook/docusaurus.png
-  page: false
+14thAdvancedEducation:
+  name: Bryan_Huang
+  title: 第十四屆進階教學
+  description: 架網站的那個
+  url: https://github.com/Bryan0324
+  image_url: https://github.com/Bryan0324.png
+  page: true
+  socials:
+    github: Bryan_Huang
