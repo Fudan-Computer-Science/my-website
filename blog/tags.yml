@@ -3,12 +3,13 @@ introduction:
   permalink: /introduction
   description: 放介紹文用的
 
-#投稿種類
+#####################投稿種類#####################
 syntactic:
   label: C++語法
   permalink: /syntactic
   description: 基本語法、易錯語法、語法糖
 
+#有細項可選擇
 algorithm:
   label: 演算法與資料結構
   permalink: /algorithm
@@ -34,7 +35,7 @@ daily:
   permalink: /daily
   description: 日記的概念:)
 
-#專業領域
+#####################專業領域#####################
 ai:
   label: AI、神經網路、大型語言模型
   permalink: /ai
@@ -70,3 +71,8 @@ docusaurus:
   label: Docusaurus
   permalink: /docusaurus
   description: Docusaurus維護相關的內容
+
+#####################細項#####################
+
+#演算法
+

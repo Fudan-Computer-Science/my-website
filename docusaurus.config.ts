@@ -48,6 +48,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Fudan-Computer-Science/homepage/blob/main/docusaurus.config.ts',
+          tags: '../blog/tags.yml',
         },
         blog: {
           showReadingTime: true,
@@ -79,6 +80,10 @@ const config: Config = {
       logo: {
         alt: 'FDCS Logo',
         src: 'img/logo.svg',
+        srcDark: 'img/logo.svg',
+        target: '_self',
+        width: 32,
+        height: 32,
       },
       items: [
         {
@@ -94,7 +99,7 @@ const config: Config = {
           label: '講義',
         },
         {to: '/blog', label: '部落格', position: 'left'},
-        {to: '/games', label: 'games', position: 'left'},
+        {to: '/games', label: '神奇小遊戲(?', position: 'right'},
         {
           href: 'https://github.com/Fudan-Computer-Science/homepage/tree/main/blog',
           label: 'GitHub',
