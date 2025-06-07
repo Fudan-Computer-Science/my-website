@@ -15,7 +15,7 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
-  page:
+  page: false
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-sebastien-lorber-articles'
   socials:
@@ -27,7 +27,9 @@ slorber:
 yangshun:
   name: Yangshun Tay
   image_url: https://github.com/yangshun.png
+  page: false
 
 docusaurus:
   name: Docusaurus Team
   image_url: https://github.com/facebook/docusaurus.png
+  page: false
