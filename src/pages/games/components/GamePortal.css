@@ -1,0 +1,31 @@
+.portal-container {
+  position: relative;
+  padding: 2rem;
+  min-height: 100vh;
+  overflow: hidden;
+  color: white;
+}
+
+.portal-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+
+.portal-title {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.portal-subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: #ccc;
+}
+
+.game-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}

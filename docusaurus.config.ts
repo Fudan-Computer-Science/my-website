@@ -94,6 +94,7 @@ const config: Config = {
           label: '講義',
         },
         {to: '/blog', label: '部落格', position: 'left'},
+        {to: '/games', label: 'games', position: 'left'},
         {
           href: 'https://github.com/Fudan-Computer-Science/homepage/tree/main/blog',
           label: 'GitHub',
