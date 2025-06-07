@@ -47,7 +47,6 @@
         <author>
             <name>Miyun</name>
         </author>
-        <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="介紹" term="介紹"/>
     </entry>
 </feed>
