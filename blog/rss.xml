@@ -4,56 +4,10 @@
         <title>復旦程式設計班 Blog</title>
         <link>https://Fudan-Computer-Science.github.io/homepage/blog</link>
         <description>復旦程式設計班 Blog</description>
-        <lastBuildDate>Sat, 07 Jun 2025 06:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-TW</language>
-        <item>
-            <title><![CDATA[部落格維護教學]]></title>
-            <link>https://Fudan-Computer-Science.github.io/homepage/blog/部落格維護教學</link>
-            <guid>https://Fudan-Computer-Science.github.io/homepage/blog/部落格維護教學</guid>
-            <pubDate>Sat, 07 Jun 2025 06:29:33 GMT</pubDate>
-            <description><![CDATA[Written by Miyun.]]></description>
-            <content:encoded><![CDATA[<p>Written by Miyun.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="檔名">檔名<a href="https://fudan-computer-science.github.io/homepage/blog/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%AD%E8%AD%B7%E6%95%99%E5%AD%B8#%E6%AA%94%E5%90%8D" class="hash-link" aria-label="檔名的直接連結" title="檔名的直接連結">​</a></h2>
-<p>一定是 「YYYY-MM-DD-文章標題.md」</p>
-<p>會依照檔案名的日期在側邊欄歸檔，不要亂打</p>
-<p>用放上網站的日期當發布日期，投稿日期在文內另外註明就好</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="各種部落格的型態">各種部落格的型態<a href="https://fudan-computer-science.github.io/homepage/blog/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%AD%E8%AD%B7%E6%95%99%E5%AD%B8#%E5%90%84%E7%A8%AE%E9%83%A8%E8%90%BD%E6%A0%BC%E7%9A%84%E5%9E%8B%E6%85%8B" class="hash-link" aria-label="各種部落格的型態的直接連結" title="各種部落格的型態的直接連結">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="一般文章">一般文章<a href="https://fudan-computer-science.github.io/homepage/blog/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%AD%E8%AD%B7%E6%95%99%E5%AD%B8#%E4%B8%80%E8%88%AC%E6%96%87%E7%AB%A0" class="hash-link" aria-label="一般文章的直接連結" title="一般文章的直接連結">​</a></h3>
-<p>就是純純的md語法，有用過hackmd的應該就會寫了 (沒有用過的話可以先去玩玩看，會很快就上手md語法)</p>
-<p>如果想要放圖片，語法如下:
-<code>![圖片名稱](./檔案名稱.副檔名)</code></p>
-<p>記得開一個file把該篇文章和圖片放在一起，方便維護</p>
-<p>在每篇文章md檔案的開頭，一定要這樣寫:</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">---</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">slug: setting-up-blog </span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">title: 程設班部落格--設立初衷</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">authors: [14thClassLeader]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">tags: [hola, docusaurus]</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">---</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">一個能分享程式設計冷知識、奇妙語法、資訊趨勢觀察、個人資訊科技相關作品的小小園地。</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">也開放投稿!</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">&lt;!-- truncate --&gt;</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">我是內文</span><br></span></code></pre></div></div>
-<p>slug 是網址名稱，建議是標題的英文翻譯(不要用中文)，記得單字和單字中間要用減號分開</p>
-<p>title 就是你網頁上看到的標題</p>
-<p>authors: 中括號裡面放作者「ID」</p>
-<p>tags: 中間用半形逗號+空格分開關鍵字</p>
-<p>以上四個項目前後用三個減號夾注。</p>
-<p>空行後，輸入摘要，這個摘要會顯示在標題下方。</p>
-<p>打完後，再次空行，輸入 <code>&lt;!-- truncate --&gt;</code>，再換行最後一次，就可以開始打內文了。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mdx">MDX<a href="https://fudan-computer-science.github.io/homepage/blog/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%AD%E8%AD%B7%E6%95%99%E5%AD%B8#mdx" class="hash-link" aria-label="MDX的直接連結" title="MDX的直接連結">​</a></h3>
-<p>關於MDX的介紹 <a href="https://hackmd.io/@RintarouTW/%E6%84%9A%E5%8D%83%E6%85%AE%E3%81%AE%E7%AD%86%E8%A8%98%E6%9C%AC/%2F%40RintarouTW%2FMDX" target="_blank" rel="noopener noreferrer">看這裡</a></p>
-<p>副檔名必須是「.mdx」(用md會出錯)</p>
-<p>可以拿來寫一些酷酷的互動元件，概念上是 javascript + markdown</p>
-<p>像是這一行
-<code>&lt;button onClick={() =&gt; alert('button clicked!')}&gt;Click me!&lt;/button&gt;</code> 就是js語法</p>
-<p>不用加任何東西，只要直接寫就可以有互動元件了，像這個就是一個低配版的按鈕</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="關於authoryml">關於author.yml<a href="https://fudan-computer-science.github.io/homepage/blog/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%AD%E8%AD%B7%E6%95%99%E5%AD%B8#%E9%97%9C%E6%96%BCauthoryml" class="hash-link" aria-label="關於author.yml的直接連結" title="關於author.yml的直接連結">​</a></h2>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">14thClassLeader:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  name: Miyun</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  title: 第14屆班長</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  image_url: https://github.com/Miyun-owo.png</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  page: true</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  socials:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    instgram: https://www.instagram.com/miyun_owo/</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    github: Miyun-owo</span><br></span></code></pre></div></div>
-<p>格式 (可以自由刪減，只有ID、Name、page不能刪):</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">ID:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  name: 你的名字</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  title: 職稱或綽號等，會顯示在名字的下方</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  image_url: 直接用github上的頭貼就好</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  page:  布林值，如果想隱形就寫false</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  socials:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    instgram: 貼你的連結</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    github: 你的帳號名 (不要放連結，會error)</span><br></span></code></pre></div></div>
-<p><strong>最下方那個預設資料不要動，會報錯</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="關於tagsyml">關於tags.yml<a href="https://fudan-computer-science.github.io/homepage/blog/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%AD%E8%AD%B7%E6%95%99%E5%AD%B8#%E9%97%9C%E6%96%BCtagsyml" class="hash-link" aria-label="關於tags.yml的直接連結" title="關於tags.yml的直接連結">​</a></h2>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">docusaurus:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  label: Docusaurus</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  permalink: /docusaurus</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  description: Docusaurus tag description</span><br></span></code></pre></div></div>
-<p>格式:</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">tag的ID:</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  label: 在網頁上顯示的tag字樣</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  permalink: 自定義連結，「/英文」</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  description: 就是字面意義上的描述</span><br></span></code></pre></div></div>
-<p><strong>最下方那個預設資料不要動，會報錯</strong></p>
-<p>大概就這樣! 想到再補:)</p>
-<p><strong>不要亂刪文檔，不要在官網上呈現的話改布林值就好</strong>。</p>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[程設班部落格--設立初衷]]></title>
             <link>https://Fudan-Computer-Science.github.io/homepage/blog/setting-up-blog</link>
