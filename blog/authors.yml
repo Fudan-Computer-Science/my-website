@@ -1,16 +1,13 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
+14thClassLeader:
+  name: Miyun
+  title: 第14屆班長
   image_url: https://github.com/yangshun.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    instgram: https://www.instagram.com/miyun_owo/
+    github: https://github.com/Miyun-owo
 
-slorber:
+14thAdvancedEducation:
   name: Sébastien Lorber
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
