@@ -15,12 +15,13 @@
 .portal-title {
   font-size: 3rem;
   margin-bottom: 0.5rem;
+  color: #b1fde0;
 }
 
 .portal-subtitle {
   font-size: 1.2rem;
   margin-bottom: 2rem;
-  color: #ccc;
+  color: #b1fde0;
 }
 
 .game-list {
