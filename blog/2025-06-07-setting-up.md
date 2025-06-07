@@ -2,7 +2,7 @@
 slug: setting-up-blog
 title: 程設班部落格--設立初衷
 authors: [14thClassLeader]
-tags: [hola, docusaurus]
+tags: [introduction]
 ---
 
 一個能分享程式設計冷知識、奇妙語法、資訊趨勢觀察、個人資訊科技相關作品的小小園地。
