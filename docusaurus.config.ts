@@ -120,6 +120,14 @@ const config: Config = {
               label: 'github',
               href: 'https://github.com/Fudan-Computer-Science',
             },
+            {
+              label: '十四屆IG',
+              href: 'https://www.instagram.com/fdcs_114/',
+            },
+            {
+              label: 'Facebook 粉專',
+              href: 'https://www.facebook.com/FDHSCoder/?locale=zh_TW',
+            },
           ],
         },
         {
