@@ -6,9 +6,10 @@
   socials:
     instgram: https://www.instagram.com/miyun_owo/
     github: Miyun-owo
-
-    
+   
 # 14thAdvancedEducation
+
+#以下區域不要動，否則會有未定義錯誤
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
@@ -22,3 +23,11 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+yangshun:
+  name: Yangshun Tay
+  image_url: https://github.com/yangshun.png
+
+docusaurus:
+  name: Docusaurus Team
+  image_url: https://github.com/facebook/docusaurus.png
