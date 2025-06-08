@@ -74,7 +74,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/FDHS_CPP-social-card.svg',
+    image: 'img/FDHS_CPP-social-card.jpg',
     navbar: {
       title: 'FDCS復旦程式設計班',
       logo: {
