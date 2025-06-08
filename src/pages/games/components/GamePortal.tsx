@@ -2,7 +2,6 @@ import React from 'react';
 import Particles from 'react-tsparticles';
 import GameCard from './GameCard';
 import './GamePortal.css';
-import { useColorMode } from '@docusaurus/theme-common';
 
 const games = [
   {
@@ -25,7 +24,8 @@ const games = [
   },
 ];
 export default function GamePortal() {
-  const { isDarkTheme } = useColorMode();
+  const isDarkTheme = true;
+  
   return (
     <div className="portal-container">
     <Particles
