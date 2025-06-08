@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: '初階班',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/13th_bigpic.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -46,7 +46,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: '進階班',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/13th_bigpic.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
