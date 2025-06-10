@@ -117,17 +117,25 @@ const config: Config = {
               label: '講義',
               to: '/docs/category/入班考講義',
             },
+            {
+              label: '部落格',
+              to: '/blog',
+            },
+            {
+              label: '網站GitHub連結',
+              href: 'https://github.com/Fudan-Computer-Science/homepage/tree/main/blog',
+            },
           ],
         },
         {
           title: '社群',
           items: [
             {
-              label: 'github',
+              label: 'Github',
               href: 'https://github.com/Fudan-Computer-Science',
             },
             {
-              label: '十四屆IG',
+              label: '第十四屆IG',
               href: 'https://www.instagram.com/fdcs_114/',
             },
             {
@@ -137,15 +145,11 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: '合作單位/學校',
           items: [
             {
-              label: '部落格',
-              to: '/blog',
-            },
-            {
-              label: '網站GitHub連結',
-              href: 'https://github.com/Fudan-Computer-Science/homepage/tree/main/blog',
+              label: 'SCINT 北臺灣資訊學生社群',
+              href: 'https://scint.org/',
             },
           ],
         },
