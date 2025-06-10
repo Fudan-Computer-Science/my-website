@@ -35,22 +35,20 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: '初階班',
+    title: '公布欄',
     Svg: require('@site/static/img/13th_bigpic.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <Link to="./" href="#" onClick = {() => openInNewTab("https://fudan-computer-science.github.io/homepage/blog/tags/announcement")}>點我前往</Link>
       </>
     ),
   },
   {
-    title: '進階班',
+    title: '回饋',
     Svg: require('@site/static/img/13th_bigpic.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       <Link to="./" href="#" onClick = {() => openInNewTab("https://fudan-computer-science.github.io/homepage/blog/tags/feedback")}>點我前往</Link>
       </>
     ),
   },
