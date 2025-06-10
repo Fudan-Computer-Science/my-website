@@ -3,6 +3,16 @@ introduction:
   permalink: /introduction
   description: 放介紹文用的
 
+announcement:
+  label: 公佈欄
+  permalink: /announcement
+  description: 重要事項公告
+
+feedback:
+  label: 回饋
+  permalink: /feedback
+  description: 你的一句話，是我們變得更好的動力!
+
 #####################投稿種類#####################
 syntactic:
   label: C++語法
