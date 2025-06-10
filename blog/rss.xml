@@ -4,10 +4,20 @@
         <title>復旦程式設計班 Blog</title>
         <link>https://Fudan-Computer-Science.github.io/homepage/blog</link>
         <description>復旦程式設計班 Blog</description>
-        <lastBuildDate>Sat, 07 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-TW</language>
+        <item>
+            <title><![CDATA[公布欄!]]></title>
+            <link>https://Fudan-Computer-Science.github.io/homepage/blog/first-announcement</link>
+            <guid>https://Fudan-Computer-Science.github.io/homepage/blog/first-announcement</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[如果有任何重要事項(開始報名、錄取榜單、比賽報名等)，都會公告在這裡!]]></description>
+            <content:encoded><![CDATA[<p>如果有任何重要事項(開始報名、錄取榜單、比賽報名等)，都會公告在這裡!</p>
+<p>目前沒有公告事項。</p>]]></content:encoded>
+            <category>公佈欄</category>
+        </item>
         <item>
             <title><![CDATA[程設班部落格--設立初衷]]></title>
             <link>https://Fudan-Computer-Science.github.io/homepage/blog/setting-up-blog</link>

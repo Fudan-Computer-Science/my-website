@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Fudan-Computer-Science.github.io/homepage/blog</id>
     <title>復旦程式設計班 Blog</title>
-    <updated>2025-06-07T00:00:00.000Z</updated>
+    <updated>2025-06-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Fudan-Computer-Science.github.io/homepage/blog"/>
     <subtitle>復旦程式設計班 Blog</subtitle>
     <icon>https://Fudan-Computer-Science.github.io/homepage/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[公布欄!]]></title>
+        <id>https://Fudan-Computer-Science.github.io/homepage/blog/first-announcement</id>
+        <link href="https://Fudan-Computer-Science.github.io/homepage/blog/first-announcement"/>
+        <updated>2025-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果有任何重要事項(開始報名、錄取榜單、比賽報名等)，都會公告在這裡!]]></summary>
+        <content type="html"><![CDATA[<p>如果有任何重要事項(開始報名、錄取榜單、比賽報名等)，都會公告在這裡!</p>
+<p>目前沒有公告事項。</p>]]></content>
+        <author>
+            <name>Miyun</name>
+        </author>
+        <category label="公佈欄" term="公佈欄"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[程設班部落格--設立初衷]]></title>
         <id>https://Fudan-Computer-Science.github.io/homepage/blog/setting-up-blog</id>
