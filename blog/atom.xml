@@ -21,6 +21,19 @@
         <category label="公佈欄" term="公佈欄"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[回饋]]></title>
+        <id>https://Fudan-Computer-Science.github.io/homepage/blog/feedback-1</id>
+        <link href="https://Fudan-Computer-Science.github.io/homepage/blog/feedback-1"/>
+        <updated>2025-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[學員回饋、家長回饋、師長回饋等都會放在這裡!]]></summary>
+        <content type="html"><![CDATA[<p>學員回饋、家長回饋、師長回饋等都會放在這裡!</p>
+<p>沒有找到任何回饋，請過一陣子之後再回來看看吧。</p>]]></content>
+        <author>
+            <name>Miyun</name>
+        </author>
+        <category label="回饋" term="回饋"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[程設班部落格--設立初衷]]></title>
         <id>https://Fudan-Computer-Science.github.io/homepage/blog/setting-up-blog</id>
         <link href="https://Fudan-Computer-Science.github.io/homepage/blog/setting-up-blog"/>
