@@ -39,7 +39,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/13th_bigpic.svg').default,
     description: (
       <>
-        <Link to="./" href="#" onClick = {() => openInNewTab("https://fudan-computer-science.github.io/homepage/blog/tags/announcement")}>點我前往</Link>
+        <Link to="./blog/tags/announcement" href="#">點我前往</Link>
       </>
     ),
   },
@@ -48,7 +48,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/13th_bigpic.svg').default,
     description: (
       <>
-       <Link to="./" href="#" onClick = {() => openInNewTab("https://fudan-computer-science.github.io/homepage/blog/tags/feedback")}>點我前往</Link>
+       <Link to="./blog/tags/feedback" href="#">點我前往</Link>
       </>
     ),
   },
