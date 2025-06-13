@@ -4,10 +4,22 @@
         <title>復旦程式設計班 Blog</title>
         <link>https://Fudan-Computer-Science.github.io/homepage/blog</link>
         <description>復旦程式設計班 Blog</description>
-        <lastBuildDate>Tue, 10 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-TW</language>
+        <item>
+            <title><![CDATA[2025學科能力競賽資訊科 後記]]></title>
+            <link>https://Fudan-Computer-Science.github.io/homepage/blog/2025-academic-competence-contest</link>
+            <guid>https://Fudan-Computer-Science.github.io/homepage/blog/2025-academic-competence-contest</guid>
+            <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[每年的學科能力競賽是各大程式競賽好手齊聚交鋒的地方，每年6月先進行校內初選後於暑假進行線上訓練，選出兩名選手代表學校參加市賽。]]></description>
+            <content:encoded><![CDATA[<p>每年的學科能力競賽是各大程式競賽好手齊聚交鋒的地方，每年6月先進行校內初選後於暑假進行線上訓練，選出兩名選手代表學校參加市賽。
+活動照片:</p>
+<p>競賽成績:
+(目前尚未正式公告，以學校相關負責單位公告為準。)</p>]]></content:encoded>
+            <category>公佈欄</category>
+        </item>
         <item>
             <title><![CDATA[公布欄!]]></title>
             <link>https://Fudan-Computer-Science.github.io/homepage/blog/first-announcement</link>

@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Fudan-Computer-Science.github.io/homepage/blog</id>
     <title>復旦程式設計班 Blog</title>
-    <updated>2025-06-10T00:00:00.000Z</updated>
+    <updated>2025-06-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Fudan-Computer-Science.github.io/homepage/blog"/>
     <subtitle>復旦程式設計班 Blog</subtitle>
     <icon>https://Fudan-Computer-Science.github.io/homepage/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025學科能力競賽資訊科 後記]]></title>
+        <id>https://Fudan-Computer-Science.github.io/homepage/blog/2025-academic-competence-contest</id>
+        <link href="https://Fudan-Computer-Science.github.io/homepage/blog/2025-academic-competence-contest"/>
+        <updated>2025-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每年的學科能力競賽是各大程式競賽好手齊聚交鋒的地方，每年6月先進行校內初選後於暑假進行線上訓練，選出兩名選手代表學校參加市賽。]]></summary>
+        <content type="html"><![CDATA[<p>每年的學科能力競賽是各大程式競賽好手齊聚交鋒的地方，每年6月先進行校內初選後於暑假進行線上訓練，選出兩名選手代表學校參加市賽。
+活動照片:</p>
+<p>競賽成績:
+(目前尚未正式公告，以學校相關負責單位公告為準。)</p>]]></content>
+        <author>
+            <name>Miyun</name>
+        </author>
+        <category label="公佈欄" term="公佈欄"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公布欄!]]></title>
         <id>https://Fudan-Computer-Science.github.io/homepage/blog/first-announcement</id>
