@@ -1,0 +1,11 @@
+---
+slug: 2025-academic-competence-contest
+title: 2025學科能力競賽資訊科 後記
+authors: [14thClassLeader]
+tags: [announcement]
+---
+每年的學科能力競賽是各大程式競賽好手齊聚交鋒的地方，每年6月先進行校內初選後於暑假進行線上訓練，選出兩名選手代表學校參加市賽。
+活動照片:
+
+競賽成績:
+(目前尚未正式公告，以學校相關負責單位公告為準。)
